@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View, StatusBar, Image } from 'react-native';
 
-import MerryCarousel from './lib/MerryCarousel';
+import MerryCarousel from './lib/Carousel';
 
 export default class App extends React.Component {
   render() {
